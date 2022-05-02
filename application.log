@@ -1,0 +1,23 @@
+2022-05-02 18:15:33,171  INFO [main] TestBase:36 - WebBrowser Initialized
+2022-05-02 18:15:38,763  INFO [main] TestBase:44 - TC 01: Validating Home Page title
+2022-05-02 18:15:39,869  INFO [main] TestBase:36 - WebBrowser Initialized
+2022-05-02 18:15:46,039  INFO [main] TestBase:51 - TC 02: Validating RebBus Logo
+2022-05-02 18:15:47,172  INFO [main] TestBase:36 - WebBrowser Initialized
+2022-05-02 18:15:51,632  INFO [main] TestBase:58 - TC 03: Validating From Field presence
+2022-05-02 18:15:52,758  INFO [main] TestBase:36 - WebBrowser Initialized
+2022-05-02 18:15:58,621  INFO [main] TestBase:66 - TC 04: Validating To Field presence
+2022-05-02 18:15:59,742  INFO [main] TestBase:36 - WebBrowser Initialized
+2022-05-02 18:16:05,953  INFO [main] TestBase:73 - TC 05: Validating Date Field Field presence
+2022-05-02 18:16:07,075  INFO [main] TestBase:36 - WebBrowser Initialized
+2022-05-02 18:16:11,382  INFO [main] TestBase:81 - TC 06: Clicking on Search from Mumbai to Goa
+2022-05-02 18:16:25,670  INFO [main] TestBase:27 - TC 08: Verify First ticket clicking on View ticket
+2022-05-02 18:16:29,957 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-05-02 18:16:29,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-05-02 18:16:29,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-05-02 18:16:29,961 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-05-02 18:16:29,961 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/arti.shinde/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-05-02 18:16:30,126 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-05-02 18:16:30,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-05-02 18:16:30,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-05-02 18:16:30,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-05-02 18:16:30,127 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/arti.shinde/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
